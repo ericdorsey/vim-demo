@@ -7,4 +7,5 @@ https://ericdorsey.github.io/vim-demo/vim-present.html
 
 Slideshow uses **Remark**:   
 > A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
+
 https://github.com/gnab/remark/wiki  
