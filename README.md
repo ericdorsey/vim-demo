@@ -1,8 +1,9 @@
 ## What
 Demo of Vim commands / usage / benefits
 
-## Hosted here on Github Pages:  
-https://ericdorsey.github.io/vim-demo/vim-present.html
+## Where
+Hosted here on Github Pages:  
+https://ericdorsey.github.io/vim-demo/vim-present.html  
 
 ___
 #### Slideshow
